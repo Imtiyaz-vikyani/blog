@@ -1,0 +1,40 @@
+{
+  "blogs": [
+    {
+      "title": "Monkey",
+      "body": "t is the general name given to a team of mammals. Except for a few species that live in places like Babuin, all species of monkeys live on trees. Some species have more than their tail length. One of the two brain hemispheres manages the tail and the other manages other body events.",
+      "author": "imtiyaz",
+      "id": 1
+    },
+    {
+      "title": "Horse",
+      "body": "The horse is a herbivore mammal included in the horse family. Wild horses called “Prezewalski” live in herds in the open fields on both sides of the “Mustang” and Altai mountains in the American steppes. The most famous horse types are Arab, British, Ahal Teke and Pony.",
+      "author": "ali",
+      "id": 2
+    },
+    {
+      "title": "Cheetah",
+      "body": "Cheetah is an interesting member of the feline family and is known for its fast running. Today, most of the species lives in South and East Africa. A very small community lives in the Khorasan region of Iran. In the miniatures showing the hunting scenes of the Sultans from the 15th, 16th and 17th centuries, there are cheetahs that hunt.",
+      "author": "lucifer",
+      "id": 3
+    },
+    {
+      "title": "Wolf",
+      "body": " The wolf is the most common and large species of the canidae family. The dog is a subspecies of the wolf. Wolf, also known as the gray wolf or forest wolf is the most common and most widely known wolf species in the world. For this reason, it is often used synonymous with the word wolf.",
+      "author": "god",
+      "id": 4
+    },
+    {
+      "title": "Tiger",
+      "body": "The tiger (Panthera tigris) is the largest living cat species and a member of the genus Panthera. It is most recognisable for its dark vertical stripes on orange-brown fur with a lighter underside. It is an apex predator, primarily preying on ungulates such as deer and wild boar. It is territorial and generally a solitary but social predator, requiring large contiguous areas of habitat, which support its requirements for prey and rearing of its offspring. Tiger cubs stay with their mother for about two years, before they become independent and leave their mother's home range to establish their own.",
+      "author": "Devil",
+      "id": 5
+    },
+    {
+      "title": "Black panther",
+      "body": "A black panther is the melanistic colour variant of the leopard (Panthera pardus) and the jaguar (Panthera onca). Black panthers of both species have excess black pigments, but their typical rosettes are also present. They have been documented mostly in tropical forests, with black leopards in Kenya, India, Sri Lanka, Nepal, Thailand, Peninsular Malaysia and Java, and black jaguars in Mexico, Panama, Costa Rica and Paraguay. Melanism is caused by a recessive allele in the leopard, and by a dominant allele in the jaguar.",
+      "author": "joey",
+      "id": 6
+    }
+  ]
+}
